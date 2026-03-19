@@ -32,7 +32,7 @@ A Python desktop GUI application using Tkinter and REST APIs to fetch real-time 
 
 ## What Is This?
 
-**Weather & Sun Tracker** is a fully functional desktop application that retrieves and displays **live weather data** and **precise solar timing** for any city worldwide — all from a single text input.
+**Weather & Sun Tracker** is a fully functional desktop application that retrieves and displays **live weather data** and **precise solar timing** for any city worldwide all from a single text input.
 
 Built entirely in Python using object-oriented design, this project demonstrates the complete lifecycle of a software application: from **API integration** and **JSON parsing**, to **error handling**, **modular architecture**, and a **polished graphical interface**.
 
@@ -166,11 +166,11 @@ lat, lon → weather       lat, lon → solar schedule
 
 ## Key Concepts Demonstrated
 
-1. REST API Integration — chaining 3 APIs sequentially
-2. JSON Parsing — navigating nested dictionaries and lists
-3. Object-Oriented Programming — class-based architecture
-4. GUI Development — Tkinter grid layout, frames, widgets
-5. Exception Handling — multi-level error managementre`
+1. REST API Integration: Chaining 3 APIs sequentially
+2. JSON Parsing: Navigating nested dictionaries and lists
+3. Object-Oriented Programming: Class-based architecture
+4. GUI Development: Tkinter grid layout, frames, widgets
+5. Exception Handling: Multi-level error managementre`
 ---
 
 ## How to Run
