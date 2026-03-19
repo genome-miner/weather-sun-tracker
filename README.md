@@ -180,7 +180,7 @@ cd weather-sun-tracker
 pip install requests
 ```
 
-**3. Create `config.py`:**
+**3. Create `main.py`:**
 ```python
 API_KEY = 'your_openweathermap_api_key_here'
 ```
