@@ -118,6 +118,10 @@ lat, lon → weather       lat, lon → solar schedule
 
 ## Sample Output
 
+<p align="center">
+  <img src="https://github.com/genome-miner/weather-sun-tracker/blob/main/GUI_result.png?raw=true" alt="Alt text" width="400">
+</p>
+
 **Weather Panel** (`Lahore, Pakistan`):
 
 | Attribute | Value |
