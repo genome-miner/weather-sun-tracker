@@ -212,7 +212,7 @@ Biotechnologist and Bioinformatician
 
 ## License
 
-MIT License — free to use, modify, and distribute with attribution.
+[MIT License](https://github.com/genome-miner/weather-sun-tracker/blob/main/LICENSE) is free to use, modify, and distribute with attribution.
 
 ---
 
