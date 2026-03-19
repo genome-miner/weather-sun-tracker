@@ -188,7 +188,7 @@ pip install requests
 
 **3. Create `main.py`:**
 ```python
-API_KEY = 'your_openweathermap_api_key_here'
+appid = 'your_openweathermap_api_key_here'
 ```
 
 **4. Run:**
