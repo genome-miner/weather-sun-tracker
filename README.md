@@ -122,10 +122,10 @@ lat, lon → weather       lat, lon → solar schedule
 
 | Attribute | Value |
 |-----------|-------|
-| Temperature | 18.01 °C |
-| Feels Like | 18.16 °C |
-| Temp Min | 18.01 °C |
-| Temp Max | 18.01 °C |
+| Temperature | 16.98 °C |
+| Feels Like | 17.03 °C |
+| Temp Min | 16.98 °C |
+| Temp Max | 16.98 °C |
 | Pressure | 1013 hPa |
 | Humidity | 88% |
 | Sea Level | 1013 hPa |
@@ -138,6 +138,8 @@ lat, lon → weather       lat, lon → solar schedule
 | Date | 2026-03-19 |
 | Sunrise | 6:09:45 AM |
 | Sunset | 6:14:09 PM |
+| First_Light | 4:48:43 AM |
+| Last_Light | 7:35:11 PM |
 | Dawn | 5:45:29 AM |
 | Dusk | 6:38:25 PM |
 | Solar Noon | 12:11:57 PM |
