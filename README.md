@@ -38,6 +38,7 @@ Built entirely in Python using object-oriented design, this project demonstrates
 
 > _"Type a city. Get the world."_
 
+---
 
 ## APIs Used
 
@@ -47,7 +48,9 @@ Built entirely in Python using object-oriented design, this project demonstrates
 | OpenWeatherMap Current Weather | `/data/2.5/weather` | Fetches live temperature, humidity, pressure |
 | SunriseSunset.io | `/json` | Retrieves sunrise, sunset, dawn, dusk, day length |
 
-# Why 3 APIs?
+---
+
+## Why 3 APIs?
 The Geocoding API acts as a **bridge** — it resolves the city name into coordinates, which are passed to both APIs simultaneously. This eliminates the need for the user to input coordinates manually.
 
 ---
@@ -128,7 +131,7 @@ lat, lon → weather       lat, lon → solar schedule
 | Sea Level | 1013 hPa |
 | Ground Level | 988 hPa |
 
-**Sunrise & Sunset Panel** (`Lahore, Pakistan)
+**Sunrise & Sunset Panel** (`Lahore, Pakistan`):
 
 | Attribute | Value |
 |-----------|-------|
