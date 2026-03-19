@@ -212,7 +212,7 @@ python main.py
 
 **Sana Aziz Sial**  
 Biotechnologist and Bioinformatician
-- 🎓 [Your University](https://www.uvas.edu.pk/)
+- 🎓 [University of Veterinary and Animal Sciences](https://www.uvas.edu.pk/)
 - 📧 [Email](sanaazizsial@gmail.com)
 - 🐙 [GitHub URL](https://github.com/genome-miner)
 - 🔗 [LinkedIn](in/sana-aziz-sial-73b189265)
