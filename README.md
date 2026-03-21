@@ -3,7 +3,7 @@ A Python desktop GUI application using Tkinter and REST APIs to fetch real-time 
 
 **Real-time weather intelligence and solar timing — for any city on Earth.**
 
-![Python](https://img.shields.io/badge/python-3.x-blue)
+![Python](https://img.shields.io/badge/python-3.10.11-blue)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
 ![REST API](https://img.shields.io/badge/REST-API-orange)
 ![OOP](https://img.shields.io/badge/OOP-Architecture-yellow)
@@ -51,7 +51,7 @@ Built entirely in Python using object-oriented design, this project demonstrates
 ---
 
 ## Why 3 APIs?
-The Geocoding API acts as a **bridge** — it resolves the city name into coordinates, which are passed to both APIs simultaneously. This eliminates the need for the user to input coordinates manually.
+The Geocoding API acts as a **bridge**; it resolves the city name into coordinates, which are passed to both APIs simultaneously. This eliminates the need for the user to input coordinates manually.
 
 ---
 
@@ -59,7 +59,7 @@ The Geocoding API acts as a **bridge** — it resolves the city name into coordi
 
 | Tool | Role |
 |------|------|
-| **Python 3** | Core programming language |
+| **Python 3.10.11** | Core programming language |
 | **Tkinter** | Native GUI framework |
 | **Requests** | HTTP client for REST API communication |
 | **OOP** | Modular, maintainable architecture |
