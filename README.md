@@ -118,37 +118,10 @@ lat, lon → weather       lat, lon → solar schedule
 
 ## Sample Output
 
+> **Example Input**: Write Lahore and get details.
 <p align="center">
-  <img src="https://github.com/genome-miner/weather-sun-tracker/blob/main/GUI_result.png?raw=true" alt="Alt text" width="400">
+  <img src="https://github.com/genome-miner/weather-sun-tracker/blob/main/GUI_result.png?raw=true" alt="Alt text" width="500">
 </p>
-
-**Weather Panel** (`Lahore, Pakistan`):
-
-| Attribute | Value |
-|-----------|-------|
-| Temperature | 16.98 °C |
-| Feels Like | 17.03 °C |
-| Temp Min | 16.98 °C |
-| Temp Max | 16.98 °C |
-| Pressure | 1013 hPa |
-| Humidity | 88% |
-| Sea Level | 1013 hPa |
-| Ground Level | 988 hPa |
-
-**Sunrise & Sunset Panel** (`Lahore, Pakistan`):
-
-| Attribute | Value |
-|-----------|-------|
-| Date | 2026-03-19 |
-| Sunrise | 6:09:45 AM |
-| Sunset | 6:14:09 PM |
-| First_Light | 4:48:43 AM |
-| Last_Light | 7:35:11 PM |
-| Dawn | 5:45:29 AM |
-| Dusk | 6:38:25 PM |
-| Solar Noon | 12:11:57 PM |
-| Day Length | 12:04:23 |
-| Timezone | Asia/Karachi |
 
 ---
 
